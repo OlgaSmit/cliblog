@@ -1,7 +1,9 @@
-<?php
+<!-- здесь прописывается вся логика -->
+?php
     $hello = "Hello World!";
     $age = 15;
-?>
+?> 
+<!-- а здесь шаблон -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +15,3 @@
     <?=$hello?>
 </body>
 </html>
-
-
-
